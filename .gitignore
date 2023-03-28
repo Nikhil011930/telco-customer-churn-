@@ -1,0 +1,9 @@
+# Ignore folder 
+.ipynb_checkpoints/
+.jovianrc
+.spyproject/
+.vscode/
+
+
+# Ignore text file 
+setup.txt
